@@ -34,5 +34,5 @@ export class Users {
     nullable: false,
     default: '',
   })
-  Password: string;
+  password: string;
 }
